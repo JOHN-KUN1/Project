@@ -5,6 +5,7 @@ from tkinter import Button
 from tkinter import messagebox
 import qrcode
 
+print("hello")
 
 # Create the main window
 window = tk.Tk()
