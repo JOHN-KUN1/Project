@@ -9,7 +9,7 @@ import qrcode
 # Create the main window
 window = tk.Tk()
 
-window.geometry("700x500")
+window.geometry("700x400")
 window.resizable(False,False)
 window.title("QR CODE GENERATOR")
 window["bg"] = "#2b2929"
